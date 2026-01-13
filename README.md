@@ -84,6 +84,7 @@ The corresponding row and column transition to logic **LOW (0)** during a key pr
 
 ![Keypad Matrix with GND Reference](images/step1_keypad_matrix_gnd.png)
 
+**Fig 1.2:**  
 - The corresponding row and column transition to logic **HIGH (1)** during a key press.
 
 This clearly demonstrated that:
